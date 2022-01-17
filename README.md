@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pedro-V
 - 👀 I’m interested in data science, machine learning, neural networks and more.
-- 🌱 I’m currently learning Python, JavaScript and machine learning libraries/modules.
+- 🌱 I’m currently learning Python, SQL and machine learning libraries/modules.
 - 📫 How to reach me: email - mingas62@hotmail.com
 
 <!---
