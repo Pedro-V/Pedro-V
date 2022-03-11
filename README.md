@@ -2,7 +2,7 @@
 * BSc. in Computer Science
 * I've been programming in Haskell, C, Python and JavaScript.
 * Interested in data science (specially applications to sports), machine learning, ETL and more.
-* 🌱 I’m currently learning Python, PowerBI, R, SQL and machine learning libraries/modules.
+* 🌱 I’m currently learning Python, PowerBI, R, SQL, Tableau and AWS.
 
 <!---
 Pedro-V/Pedro-V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
