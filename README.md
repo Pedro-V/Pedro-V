@@ -1,8 +1,8 @@
 * Aracaju, Brazil
 * BSc. in Computer Science
-* I've been programming in Haskell, C, Python and JavaScript.
+* I've been programming in Python, Haskell, C and SQL.
 * Interested in data science application to sports, politics etc.
-* 🌱 I’m currently learning Python, PowerBI, R, SQL, Tableau and AWS.
+* 🌱 I’m currently learning R, PowerBI, Tableau and AWS.
 
 <!---
 Pedro-V/Pedro-V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
