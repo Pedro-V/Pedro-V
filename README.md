@@ -1,7 +1,7 @@
 * Aracaju, Brazil
 * BSc. in Computer Science
 * I've been programming in Haskell, C, Python and JavaScript.
-* Interested in data science (specially applications to sports), machine learning, ETL and more.
+* Interested in data science application to sports, politics etc.
 * 🌱 I’m currently learning Python, PowerBI, R, SQL, Tableau and AWS.
 
 <!---
