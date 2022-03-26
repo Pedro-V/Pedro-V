@@ -1,7 +1,8 @@
 * Aracaju, Brazil
 * BSc. in Computer Science
-* I've been programming in Python, Haskell, C and SQL.
-* Interested in data science application to sports, politics etc.
+* Languages/Tools I've used or been using:
+  * Python, SQL, Haskell, C
+* Interested in datamining applications to sports, politics etc.
 * 🌱 I’m currently learning R, PowerBI, Tableau and AWS.
 
 <!---
