@@ -1,5 +1,5 @@
 * Aracaju, Brazil
-* BSc. in Computer Science
+* BSc. in Computer Science (In progress)
 * Languages/Tools I've used or been using:
   * Python, SQL, Haskell, C
 * Interested in datamining applications to sports, politics etc.
