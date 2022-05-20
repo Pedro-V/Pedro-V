@@ -5,6 +5,9 @@
 * Interested in datamining applications to sports, politics etc.
 * 🌱 I’m currently learning R, PowerBI, Tableau and AWS.
 
+![Pedro-V Status](https://github-readme-stats.vercel.app/api?username=Pedro-V&show_icons=true)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-V&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 Pedro-V/Pedro-V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
