@@ -1,9 +1,9 @@
 * Aracaju, Brazil
-* BSc. in Computer Science (In progress)
-* Languages/tools I've used or been using:
-  * Python, SQL, Haskell, C
+* BSc. in Computer Science at UFS (In progress)
+* Languages/tools I've been using:
+  * Python, SQL (MySQL, PostgreSQL), Haskell, PowerBI
 * Interested in datamining applications to sports, politics etc.
-* 🌱 I’m currently learning R, PowerBI, Tableau and AWS.
+* 🌱 I’m currently learning R, Linux/Bash and AWS.
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=224spilp5rrsmuv3l2ls3t2eq&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=224spilp5rrsmuv3l2ls3t2eq&redirect=true)
