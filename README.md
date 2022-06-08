@@ -3,7 +3,7 @@
 * Languages/tools I've been using:
   * Python, SQL (MySQL, PostgreSQL), Haskell, PowerBI, GCP, bash
 * Interested in datamining applications to sports, politics etc.
-* 🌱 I’m currently learning R, Spark, Airflow, Scala nd AWS.
+* 🌱 Currently learning R, Spark, Airflow, Scala nd AWS.
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=224spilp5rrsmuv3l2ls3t2eq&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=224spilp5rrsmuv3l2ls3t2eq&redirect=true)
