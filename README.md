@@ -1,5 +1,5 @@
 * Aracaju, Brazil
-* Completing my BSc. in Computer Science at UFS
+* Completing a BSc. in Computer Science at UFS
 * Languages/tools I've been using:
   * Python, SQL (MySQL, PostgreSQL), Haskell, PowerBI, GCP, bash
 * Interested in datamining applications to sports, politics etc.
