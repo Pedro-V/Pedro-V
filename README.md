@@ -1,7 +1,7 @@
 * Aracaju, Brazil
 * Completing a BSc. in Computer Science at UFS
 * Languages/tools I've been using:
-  * Python, SQL (MySQL, PostgreSQL), R, bash, Haskell, GCP
+  * Python, SQL (MySQL, PostgreSQL), R, bash/Linux, Haskell, GCP
 * Interested in datamining applications to sports, politics etc.
 * 🌱 Currently learning Spark and AWS.
 
