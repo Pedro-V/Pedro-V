@@ -2,8 +2,8 @@
 * Completing a BSc. in Computer Science at UFS
 * Languages/tools I've been using:
   * Python, SQL (MySQL, PostgreSQL), R, bash/Linux, Haskell, GCP, Docker
-* Interested in datamining applications to sports, politics etc.
-* 🌱 Currently learning Spark and AWS.
+* Interested in functional programming, datamining applications to sports and politics, etc.
+* 🌱 Currently learning Scala, LISP-family and AWS.
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=224spilp5rrsmuv3l2ls3t2eq&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=224spilp5rrsmuv3l2ls3t2eq&redirect=true)
