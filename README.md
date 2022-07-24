@@ -3,7 +3,7 @@
 * Languages/tools I've been using:
   * Python, SQL (MySQL, PostgreSQL), R
   * bash/Linux, Haskell, GCP, Docker
-* Interested in functional programming, TDD, datamining applications to sports and politics, etc.
+* Interested in functional programming, TDD, datamining applications to sports
 * 🌱 Currently learning Scala, LISP-family and AWS.
 
 
