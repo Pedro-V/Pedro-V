@@ -1,6 +1,6 @@
 * Aracaju, Brazil
 * Completing a BSc. in Computer Science at UFS
-* Languages/tools I've been using:
+* Tools and tech:
   * Python, SQL (MySQL, PostgreSQL), R
   * bash/Linux, Haskell, GCP, Docker
 * Interested in functional programming, TDD, datamining applications to sports
