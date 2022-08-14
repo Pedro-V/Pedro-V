@@ -1,6 +1,7 @@
 * Aracaju, Brazil
-* Completing a BSc. in Computer Science at UFS
-* Tools and tech:
+* BSc. in Computer Science at UFS
+* Research Assistant at Embrapa
+* Working with
   * Python, SQL (MySQL, PostgreSQL), R
   * bash/Linux, Haskell, GCP, Docker
 * Interested in functional programming, TDD, datamining applications to sports
