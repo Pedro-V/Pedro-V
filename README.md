@@ -3,7 +3,7 @@
 * Research Assistant at Embrapa
 * Working with
   * Python, SQL (MySQL, PostgreSQL), R
-  * bash/Linux, Haskell, GCP, Docker
+  * bash/Linux, Haskell, Docker
 * Interested in functional programming, TDD, datamining applications to sports
 * 🌱 Currently learning Scala, LISP-family and AWS.
 
