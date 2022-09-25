@@ -7,6 +7,8 @@
 * Interested in functional programming, TDD, datamining applications to sports
 * 🌱 Currently learning Scala, Rust, LISP-family and AWS.
 
+![spotify-github-profile](music.svg)
+
 ![Pedro-V Status](https://github-readme-stats.vercel.app/api?username=Pedro-V&show_icons=true)[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-V&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
