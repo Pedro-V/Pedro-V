@@ -5,7 +5,7 @@
   * Python, SQL (MySQL, PostgreSQL), R, Apache Airflow
   * bash/Linux, Haskell, Docker
 * Interested in functional programming, TDD, datamining applications to sports
-* 🌱 Currently learning Scala, LISP-family and AWS.
+* 🌱 Currently learning Scala, Rust, LISP-family and AWS.
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=224spilp5rrsmuv3l2ls3t2eq&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=224spilp5rrsmuv3l2ls3t2eq&redirect=true)
