@@ -2,7 +2,7 @@
 * BSc. in Computer Science at UFS
 * Research Assistant at [Embrapa](embrapa.br)
 * Working with
-  * Python, SQL (MySQL, PostgreSQL), R
+  * Python, SQL (MySQL, PostgreSQL), R, Apache Airflow
   * bash/Linux, Haskell, Docker
 * Interested in functional programming, TDD, datamining applications to sports
 * 🌱 Currently learning Scala, LISP-family and AWS.
