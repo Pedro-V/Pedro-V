@@ -1,6 +1,6 @@
 * Aracaju, Brazil
 * BSc. in Computer Science at UFS
-* Research Assistant at [Embrapa](embrapa.br)
+* Research Assistant at [Embrapa](https://www.embrapa.br)
 * Working with
   * Python, SQL (MySQL, PostgreSQL), R, Apache Airflow
   * bash/Linux, Haskell, Docker
