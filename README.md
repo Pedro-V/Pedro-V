@@ -4,7 +4,8 @@
 * Working with
   * Python, SQL (MySQL, PostgreSQL), R, Apache Airflow
   * bash/Linux, Haskell, Docker
-* Interested in functional programming, TDD, datamining applications to sports
+* Interested in functional programming, programming language theory, 
+datamining applications to sports
 * 🌱 Currently learning Scala, Rust, Lisp-family and AWS.
 
 ![spotify-github-profile](music.svg)
