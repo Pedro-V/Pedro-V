@@ -4,7 +4,7 @@
 * Working with
   * Python, SQL (MySQL, PostgreSQL), R, Apache Airflow
   * bash/Linux, Haskell, Docker
-* Interested in functional programming, programming language theory, 
+* Interested in theoretical computer science, software architecture and
 datamining applications to sports
 * 🌱 Currently learning Scala, Rust, Lisp-family and AWS.
 
