@@ -1,10 +1,11 @@
 * Aracaju, Brazil
 * BSc. in Computer Science at UFS
 * Research Assistant & Scholarship at [Embrapa](https://www.embrapa.br)
-* Working with
-  * Python, SQL (MySQL, PostgreSQL), R, Apache Airflow
-  * bash/Linux, Haskell, Docker
-* Interested in theoretical computer science, software architecture and
+* Working with:
+  - Data Engineering and Analysis
+  - Backend/API development with functional and OOP paradigms
+  - Systems programming with C, C++ and Rust
+* Interested in theoretical computer science, programming language theory, software architecture and
 datamining applications to sports
 * 🌱 Currently learning Scala, Rust, Lisp-family and AWS.
 
