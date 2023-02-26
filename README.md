@@ -2,12 +2,11 @@
 * BSc. in Computer Science at UFS
 * Research Assistant & Scholarship at [Embrapa](https://www.embrapa.br)
 * Working with:
-  - Data Engineering and Analysis
-  - Backend/API development with functional and OOP paradigms
+  - Data Engineering/Analysis, with Python, R, Scala and AWS
+  - Backend/API development, both functional and OOP
   - Systems programming with C, C++ and Rust
 * Interested in theoretical computer science, programming language theory, software architecture and
 datamining applications to sports
-* 🌱 Currently learning Scala, Rust, Lisp-family and AWS.
 
 ![spotify-github-profile](music.svg)
 
