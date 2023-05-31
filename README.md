@@ -8,9 +8,7 @@
 * Interested in theoretical computer science, programming language theory, software architecture and
 datamining applications to sports
 
-![spotify-github-profile](music.svg)
-
-![Pedro-V Status](https://github-readme-stats.vercel.app/api?username=Pedro-V&show_icons=true)[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-V&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-V&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Pedro-V/Pedro-V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
