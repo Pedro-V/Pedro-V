@@ -1,6 +1,6 @@
 * Aracaju, Brazil
 * BSc. in Computer Science at UFS
-* Research Assistant & Scholarship at [Embrapa](https://www.embrapa.br)
+* Scholarship at [Embrapa](https://www.embrapa.br)
 * Working with:
   - Data Engineering/Analysis, with Python, R, Scala and AWS
   - Backend/API development, both functional and OOP
