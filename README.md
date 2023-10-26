@@ -1,11 +1,7 @@
 * Aracaju, Brazil
 * BSc. in Computer Science at UFS
-* Working with:
-  - Data Engineering/Analysis, with Python, R, Scala and AWS
-  - Backend/API development, both functional and OOP
-  - Systems programming with C, C++ and Rust
-* Interested in theoretical computer science, programming language theory, software architecture and
-datamining applications to sports
+* Usually working with DSA, data, graphics and systems programming
+* Interested in datamining application to sports and theoretical computer science
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-V&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
