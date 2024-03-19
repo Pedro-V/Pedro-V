@@ -1,6 +1,6 @@
 * Aracaju, Brazil
 * BSc. in Computer Science at UFS
-* Usually working with DSA, data, graphics and systems programming
+* Usually working with DSA, data and systems programming
 * Interested in datamining application to sports and theoretical computer science
 
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-V&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
